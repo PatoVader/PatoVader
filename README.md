@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @PatoVader
-- 👀 I’m interested in Gaming, Technology, Anime, Etc.
-- 🌱 I’m currently learning Astronomy, 3D Design, Lenguajes.
-- 💞️ I’m on a relationship since 3 months ago.
-- 📫 How to reach me Discord: ! VaderPato#6969.
+- 👀 I’m interested in Gaming, Technology, Photography, Etc.
+- 📖 I'm studying in Pontificia Universidad Católica de Valparaíso.
+- 🌱 I’m currently learning Programming Lenguajes, 3D Design.
+- 📫 How to reach me Discord: patovader.
+- 📫 Via Mail: pato.vader.contacto@gmail.com
+
 
 <!---
 PatoVader/PatoVader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
